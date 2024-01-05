@@ -4,6 +4,12 @@
 <img src="https://github.com/111453023/-Project/blob/main/PIC/PIC1.jpg" height="480px" width="320px" />
 <img src="https://github.com/111453023/-Project/blob/main/PIC/PIC2.jpg" height="480px" width="320px" />
 
+## Demo
+
+Full Project Demo： https://youtu.be/3XLDWTJobOg
+
+SG90 Test： https://youtu.be/KIroEsAjAVU 
+
 ## 所需的組件列表
 
  1. Raspberry pi
@@ -111,7 +117,7 @@ detect_motion_sensitivity_adjustable()
 
 5. Final program
    
-See them at `Main_Project.py`. Thank you for your reading.
+移動偵測結合SG90馬達旋轉的程式請參閱 `Main_Project.py`.
 
 
 ## Reference
