@@ -1,7 +1,8 @@
 # Project: 零用錢發放機
 透過鏡頭偵測，控制馬達旋轉方向移動阻片，從上方盒子掉出零用錢。
-![作品圖1](https://github.com/111453023/-Project/blob/main/PIC/PIC1.jpg)
-![作品圖2](https://github.com/111453023/-Project/blob/main/PIC/PIC2.jpg)
+
+<img src="https://github.com/111453023/-Project/blob/main/PIC/PIC1.jpg" height="480px" width="320px" />
+<img src="https://github.com/111453023/-Project/blob/main/PIC/PIC2.jpg" height="480px" width="320px" />
 
 ## 所需的組件列表
 
