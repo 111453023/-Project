@@ -114,6 +114,15 @@ See them at `Main_Project.py`. Thank you for your reading.
 
 
 ## Reference
-https://github.com/thomashuang2017/NCU_IOT_project/tree/master
+https://github.com/thomashuang2017/NCU_IOT_project
 
-https://github.com/weberlu88/2019-Fall-MIS-IoT-Project/tree/master
+https://github.com/weberlu88/2019-Fall-MIS-IoT-Project
+
+https://github.com/WenHeChang/IoT
+
+感謝已修過這門課的曾同學指導移動偵測部分
+
+## 可以改進的地方
+* 原本預計是想使用人臉偵測來啟動馬達旋轉，但礙於沒太多時間研究與實作這部分，所以改成移動偵測
+* 使用人臉偵測後，可以進一步確認是誰來領取零用金並照相存檔(領取記錄)
+* 可以串接Line bot作更進一步的運用
