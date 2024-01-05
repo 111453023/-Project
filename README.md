@@ -27,6 +27,8 @@
 3. SG90 Servomotor Controlling section
    
   https://www.instructables.com/Controlling-Servo-Motor-Sg90-With-Raspberry-Pi-4/
+  
+  ![接線圖](https://github.com/111453023/-Project/blob/main/PIC/Completed_Schematic_No_External_Power.jpg)
 
 ```python
 
